@@ -10,3 +10,6 @@ spec:
     rollingUpdate: 
       maxSurge: 3
       maxUnvailable: 1
+    selector: 
+      matchLabels: 
+        app: webpp
