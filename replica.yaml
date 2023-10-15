@@ -4,4 +4,4 @@ metadata:
   name: 
   namespace: 
 spec: 
-  replicas: 1
+  replicas: 5
