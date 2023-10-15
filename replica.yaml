@@ -3,3 +3,5 @@ kind: Replicas
 metadata: 
   name: 
   namespace: 
+spec: 
+  replicas: 1
